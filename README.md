@@ -35,3 +35,4 @@ MENTOR: NEELA SANTHOSH KUMAR
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/ef138b88-ec9f-4a00-ab77-50e4a9db0a8e)
